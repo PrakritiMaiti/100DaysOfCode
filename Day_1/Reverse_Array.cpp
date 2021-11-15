@@ -19,7 +19,7 @@ int main(){
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
-    reverseArray(arr,n);
+    reverseArray(arr,n);//for reverse 
 
     for(int i=0;i<n;i++){
         cout<<arr[i]<<" ";
