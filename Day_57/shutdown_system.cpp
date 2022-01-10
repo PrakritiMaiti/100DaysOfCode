@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     
-    system("shutdown -P now");
+    system("c:\\windows\\system32\\shutdown /i");
 
     return 0;
 }
